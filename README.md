@@ -5,9 +5,6 @@ This repository details the project for the 2023 Yonsei University Digital Healt
 ## Introduction
 Our project aims to differentiate between three diseases (Pneumonia, Covid-19, Tuberculosis) that present with similar symptoms but have distinct causes and therefore require different initial treatments and isolation methods. Rapid and accurate differentiation at early stages is crucial for patient management.
 
-## Motivation
-The motivation for selecting this topic stems from the importance of early differential diagnosis to dictate the correct initial treatment and isolation precautions, which vary significantly between these conditions.
-
 ## Dataset Introduction
 We utilized publicly available X-ray datasets from Kaggle. Our data consists of:
 - Tuberculosis: 1788 X-ray images
