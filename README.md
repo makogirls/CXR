@@ -31,22 +31,3 @@ The model is a Convolutional Neural Network (CNN) with the following layers:
 
 ## Results
 Our best model achieved a test accuracy of 83.4%. The model showed high sensitivity, indicating a strong ability to detect diseases from the X-ray images.
-
-## Discussion
-We discussed various strategies for improving accuracy, such as more convolutional layers or neurons, transfer learning, model ensembling, and improving the dataset.
-
-## Reflections
-We reflected on the challenges faced due to limitations in storage and computational resources, as well as the importance of medical knowledge in the development of such models. We also appreciated the significance of collaboration between developers and medical professionals.
-
-## Roles and Responsibilities
-Development & Presentation: Park Won-jun, Jeong Jae-won
-Planning & PPT: Kang Min-gu, Kim Hyun-soo, Kim Han-jae, Baek In-sung
-
-## References
-- Scholarly articles and research papers related to X-ray image classification and CNN models.
-
-## Figures References
-- Links to image resources and documentation used for the development and presentation of the project.
-
-## Acknowledgements
-A special thanks to everyone who supported and guided us throughout the project, including those who provided valuable resources and data.
