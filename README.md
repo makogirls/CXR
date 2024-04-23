@@ -1,6 +1,6 @@
 # X-ray Classification Model: Normal / Pneumonia / Covid-19 / Tuberculosis
 
-This repository details the project for the 2023 Yonsei University Digital Healthcare Bootcamp (2023/07/26-2023/07/28). The project's aim was to develop a model to classify X-ray images into four categories: Normal, Pneumonia, Covid-19, and Tuberculosis.
+This repository details the project for the 2023 Yonsei University Digital Healthcare Bootcamp (2023/07/26-2023/07/28).
 
 ## Introduction
 Our project aims to differentiate between three diseases (Pneumonia, Covid-19, Tuberculosis) that present with similar symptoms but have distinct causes and therefore require different initial treatments and isolation methods. Rapid and accurate differentiation at early stages is crucial for patient management.
